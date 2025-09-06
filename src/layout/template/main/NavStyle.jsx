@@ -10,6 +10,7 @@ const navLinks = [
   { label: "Features", path: "#vehicle-checks" },
   { label: "Pricing", path: "#pricing" },
   { label: "Testimonials", path: "#testimonials" },
+  { label: "Admin", path: "/admin" },
   { label: "FAQ", path: "#cta" },
 ];
 
