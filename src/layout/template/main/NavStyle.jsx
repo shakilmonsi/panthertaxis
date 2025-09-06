@@ -69,9 +69,12 @@ const NavStyle = () => {
       <header className="sticky top-0 z-50 border-b border-gray-100 bg-white shadow-sm">
         <nav className="relative mx-auto flex w-full max-w-7xl items-center justify-between px-6 py-4">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2">
+          <Link
+            to="/"
+            className="flex items-center gap-2 rounded-2xl border-1 border-[#1276F9] p-2"
+          >
             <FaTaxi className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-neutral-800">
+            <span className="text-xl font-[600] text-[#1276F9]">
               TAXILOG UK
             </span>
           </Link>
