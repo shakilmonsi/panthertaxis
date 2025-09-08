@@ -1,7 +1,4 @@
-import React from "react";
-import { FaSubscript } from "react-icons/fa";
 import { PiSubtitlesThin } from "react-icons/pi";
-
 const Settings = () => {
   return (
     <div className="flex w-full flex-col items-center bg-white px-4 py-6 md:py-8 lg:py-10">

@@ -3,7 +3,7 @@ import LeftSide from "./LeftSide";
 
 const DashboardLayout = () => {
   return (
-    <section className="flex justify-between text-white">
+    <section className="flex justify-between bg-[#212121] text-white">
       <div className="h-screen w-70 bg-[#212121]">
         <LeftSide />
       </div>
