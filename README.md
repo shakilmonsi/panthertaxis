@@ -89,3 +89,9 @@
 ## 📂 Folder Structure
 
 ### `public/`
+
+![alt text](public/image/public.png)
+
+### `src/`
+
+![alt text](public/image/src.png)
